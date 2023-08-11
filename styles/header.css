@@ -24,3 +24,14 @@
     display: none;
 
 }
+.container__botao{
+    display: none;
+}
+.liste-menu__titulo{
+    background: var(--roxo-degrade);
+    -webkit-bacground-clip:text;
+    text-transform:uppercase;
+
+    .lista.menu__titulo, .lista-menu__item{
+        padding: ;
+}
